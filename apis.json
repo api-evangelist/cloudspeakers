@@ -1,0 +1,46 @@
+{
+    "name": "Cloudspeakers",
+    "description": "new music curated by music experts",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2195-cloudspeakers.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "music",
+        "netherlands"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/cloudspeakers\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Cloudspeakers",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2195-cloudspeakers.jpg",
+            "humanURL": "http:\/\/apidoc.cloudspeakers.com\/home",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/cloudspeakers-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/cloudspeakers"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/cloudspeakers"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/apidoc.cloudspeakers.com\/home"
+        }
+    ]
+}
